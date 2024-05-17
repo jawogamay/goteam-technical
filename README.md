@@ -72,4 +72,10 @@ yarn preview
 bun run preview
 ```
 
+## Routes
+````bash
+  Exam 2
+  /exam2
+````
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
